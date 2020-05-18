@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>NUKIMCamp</title>
+	<title>NUKIMCamp</title> 
 	<h1><center><font Face='Cooper Black' color=#ffffff>
 			Welcome to NUKIM Camp!
 	</font></center></h1> 
